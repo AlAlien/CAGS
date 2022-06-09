@@ -1,9 +1,11 @@
 function sim = CAGS(imageRef, imageDis)
 % ========================================================================
-% CAGS Index with automatic downsampling, Version 1.0£¬2020.1.6
-% Copyright(c) 2019 Chenyang Shi£¬Yandan Lin
+% CAGS Index with automatic downsampling, Version 1.0Â£Â¬2020.1.6
+% Copyright(c) 2019 Chenyang ShiÂ£Â¬Yandan Lin
 % All Rights Reserved.
-%
+%Shi Chenyang, Lin Yandan., Objective image quality assessment based on 
+%image color appearance and gradient features[J], Acta Physica Sinica, 
+%2020, 69(22): 401-412.
 % ----------------------------------------------------------------------
 % Permission to use, copy, or modify this software and its documentation
 % for educational and research purposes only and without fee is here
